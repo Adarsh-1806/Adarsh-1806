@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/rajat-gajera/count.svg) -->
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
+# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 ```bash
 I am Adarsh Moradiya.
 
