@@ -68,6 +68,7 @@ Adarsh-1806 :: github  ➜  ~ » ls "Database and Cloud Techs"
 Adarsh-1806 :: github  ➜  ~ » ls "Tools and Technologies"
 "Web Development ➜ MERN stack"  
 "DApp Development ➜ Solidity/ReactJs" 
+"Blockchain ➜ JavaScript"
 ```
 </details>
 
