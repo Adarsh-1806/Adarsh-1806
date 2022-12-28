@@ -36,8 +36,7 @@ Adarsh-1806 :: github  ➜  ~ » ls sections
 <br>
   
 ```bash
-Adarsh-1806 :: github  ➜  ~ » ls languages
-"JavaScript"  "Solidity"  "C++" "HTML"   "CSS" "Express JS"
+"JavaScript"  "Solidity"  "C++"
 ```
 </details>
 
@@ -46,8 +45,7 @@ Adarsh-1806 :: github  ➜  ~ » ls languages
 <br>
   
 ```bash
-Adarsh-1806 :: github  ➜  ~ » ls "Frameworks And Libraries"
-"Node.js"   "React.js"   
+"NodeJS"   "ReactJS"  "NextJS"
 ```
 </details>
 
@@ -56,7 +54,6 @@ Adarsh-1806 :: github  ➜  ~ » ls "Frameworks And Libraries"
 <br>
   
 ```bash
-Adarsh-1806 :: github  ➜  ~ » ls "Database and Cloud Techs"
 "MongoDB"  "MySQL"  "SQL"
 ```
 </details>
@@ -65,10 +62,10 @@ Adarsh-1806 :: github  ➜  ~ » ls "Database and Cloud Techs"
 <br>
   
 ```bash
-Adarsh-1806 :: github  ➜  ~ » ls "Tools and Technologies"
 "Web Development ➜ MERN stack"  
-"DApp Development ➜ Solidity/ReactJs" 
-"Blockchain ➜ JavaScript"
+"DApp Development" 
+"Blockchain"
+"Hyperledger"
 ```
 </details>
 
