@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**rajat-gajera/rajat-gajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adarsh-1806/Adarsh-1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
