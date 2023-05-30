@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href = "https://github.com/Adarsh-1806">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-1806&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-1806&hide=html,css&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  </a>
 </p>
 
 ### GitHub Stats
 
 <p align="center">
-  <a href = "https://github.com/Adarsh-1806">
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-1806&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  <a href="https://github.com/Adarsh-1806/Adarsh-1806" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-1806&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adarsh's GitHub Stats" height="180px"/>
   </a>
  </p>
  
