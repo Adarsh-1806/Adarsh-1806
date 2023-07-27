@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Contact Me Here
 <a href=https://www.facebook.com> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
-<a href=hhttps://www.linkedin.com/in/adarsh-moradiya-142b4a19a/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=https://www.linkedin.com/in/adarsh-moradiya-142b4a19a/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <a href=https://twitter.com/AdarshMoradiya > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 <a href=https://www.instagram.com/__adarsh__003/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
