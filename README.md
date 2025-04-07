@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 <!-- # Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" /> -->
 <p>
   <em>
-    A <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and deeply enthusiastic about  <b>blockchain</b> and <b>web3</b> space <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujarat, India.
+    A <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and deeply enthusiastic about  <b>blockchain</b> and <b>Machine Learning</b> space <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujarat, India.
   </em>
  </p>
  
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Engineer (Blockchain)  at [Simform](https://www.simform.com/);
+- 👨🏽‍💻 I’m a Software Engineer at [Simform](https://www.simform.com/);
 - 💼 I’ve completed my Bachelor's degree in Information Technology at DDU;
 - 🤔 My interests are with Blockchain 🖥️, AI-ML 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of Anime
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via adarshmoradiya@gmail.com or ping me on [Twitter](https://twitter.com/AdarshMoradiya) to reach me;
+- 📫 Please email via adarshmoradiya001@gmail.com or ping me on [Twitter](https://twitter.com/AdarshMoradiya) to reach me;
 <br/> 
 </em>
 
